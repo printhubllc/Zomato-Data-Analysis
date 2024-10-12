@@ -36,7 +36,7 @@ During this project, I focused on learning the following key concepts:
 - **DAX (Data Analysis Expressions)**: Used extensively to create dynamic measures, tables, and slicers.
 
 ## Screenshots
-(Add screenshots of your Power BI dashboards here to showcase the project.)
+(https://github.com/user-attachments/assets/6e33e1a1-3c1d-4fd6-b389-125abccb198f)
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
